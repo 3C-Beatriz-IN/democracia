@@ -71,7 +71,7 @@ nav .nav-link:hover {
 }
 
 .secao-democracia {
-    background-color: var(--amarelo);
+    background-color: var(--cinza-claro);
     padding: 2rem;
     border-radius: 1rem;
 }
@@ -82,7 +82,7 @@ nav .nav-link:hover {
 }
 
 .formulario {
-    background-color: var(--amarelo);
+    background-color: var(--cinza-claro);
     padding: 2rem;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
@@ -136,6 +136,7 @@ body.alto-contraste .botao-inicio {
 body.alto-contraste .botao-inicio:hover {
     background-color: #ccc;
 }
+
 
 
 
