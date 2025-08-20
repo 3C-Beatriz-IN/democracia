@@ -1,3 +1,4 @@
+<!-- Beatriz Ribeiro 3c 20/08-->
 document.addEventListener('DOMContentLoaded', function () {
     const botaoDeAcessibilidade = document.getElementById('botao-acessibilidade');
     const opcoesDeAcessibilidade = document.getElementById('opcoes-acessibilidade');
@@ -35,3 +36,4 @@ ScrollReveal().reveal('#inicio', { delay: 500 });
 ScrollReveal().reveal('#democracia', { delay: 500 });
 ScrollReveal().reveal('#galeria', { delay: 500 });
 ScrollReveal().reveal('#contato', { delay: 500 });
+
